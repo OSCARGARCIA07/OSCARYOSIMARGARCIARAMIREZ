@@ -1,0 +1,653 @@
+
+/*
+Codigo de la pagina principal
+*/
+h1 {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+
+h2 {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+img {
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-right: 500px;
+    position: absolute;
+    align-items: center;
+    
+}
+.img1 {
+    width: 300px;
+    margin-left: 200px;
+
+}
+.img1:hover {
+    transform: scale(1.1);
+}
+.img2:hover {
+    transform: scale(1.1);
+}
+
+body {
+    background-color:#272727;
+    
+    
+}
+
+
+
+.menu {
+background-color: blue;
+width: 300px;
+height: 380px;
+padding-top: 200px;
+
+margin-right: 12px;
+margin-left: 10px;
+position: fixed;
+
+
+}
+
+
+
+h3 {
+    
+       
+    color: blanchedalmond;
+}
+
+p {
+    color: blanchedalmond;
+}
+
+.secundario {
+    float: right;
+    margin-right: 150px;
+    margin-top: 70px;
+   
+}
+
+.principal2 {
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+
+.titulo2 {
+    margin-top: 200px;
+}
+.perfil {
+    text-align: center;
+}
+
+
+
+
+
+
+
+.caja1 p {
+    color: blanchedalmond;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+
+
+.caja3 p {
+    color: blanchedalmond;
+    margin-top: 70px;
+    margin-left: 20px;
+}
+
+.boton1:hover {
+   color:white;
+   background: red;
+}
+.boton2:hover {
+    color:white;
+    background: red;
+}
+.caja1 {
+    position: absolute;
+    right: 250px;
+    width: 350px;
+    height: 350px;
+    background-color: black;
+}
+.caja1:hover {
+    background-color: gray;
+}
+.caja1 img{
+    width: 50px;
+    position: static;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.caja2 img {
+    width: 50px;
+    position: relative;
+    right: 450px;
+    margin-top: 30px;
+
+}
+.caja2:hover {
+    background-color: gray;
+}
+.caja3 img {
+    width: 50px;
+    position: static;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+.caja3:hover {
+    background-color: gray;
+}
+.caja4 img {
+    width: 50px;
+    position: relative;
+    right: 450px;
+    margin-top: 30px;
+    
+
+}
+    
+    
+
+.caja2 {
+    position: absolute;
+    float: left;
+    margin-left: 235px;
+    width: 350px;
+    height: 350px;
+    background-color: black;
+
+}
+
+.caja3 {
+    position: absolute;
+    top: 1218px;
+    right: 250px;
+    width: 350px;
+    height: 350px;
+    background-color: black;
+
+}
+.caja4 {
+    position: absolute;
+    float: left;
+    margin-top: 355px;
+    margin-left: 235px;
+    width: 350px;
+    height: 350px;
+    background-color: black;
+
+}
+.caja4:hover {
+    background-color: gray;
+}
+.perfil2 {
+    text-align: center;
+}
+
+.contacto {
+    text-align: center;
+}
+
+.dudas {
+    text-align: center;
+}
+
+.input1 {
+    float: right;
+    margin-right: 400px;
+    
+}
+.input2 {
+    float: right;
+    margin-left: 20px;
+    
+    
+    
+}
+.input3 {
+    margin-top: 10px;
+    margin-left: 435px;
+    width: 350px;
+    
+    
+}
+.input4 {
+    margin-top: 10px;
+    margin-left: 435px;
+    width: 350px;
+    height: 80px;
+}
+.boton20 {
+    margin-left: 560px;
+    margin-top: 10px;
+}
+
+.boton20:hover {
+    color:white;
+    background: red;
+}
+.trabajo {
+    text-decoration: rgb(150, 24, 15) underline ;
+    
+}
+.contacto {
+    text-decoration: rgb(150, 24, 15) underline ;
+}
+.trabajo {
+    text-decoration: rgb(150, 24, 15) underline ;
+}
+.saber {
+    text-decoration: rgb(150, 24, 15) underline ;
+}
+.acerca {
+    text-decoration: rgb(150, 24, 15) underline  ;
+    
+ }
+
+
+.principal {
+    margin-left: 150px;
+    
+    
+    
+    
+}
+
+
+h2 {
+    font-size: medium;
+}
+.caja51 {
+    position: absolute;
+    top: 1795px;
+    left: 20px;
+    
+}
+.caja51 img {
+    width: 300px;
+    height: 150px;
+
+}
+
+.caja52 {
+    position: absolute;
+    top: 1795px;
+    left: 320px;
+    
+    
+
+}
+.caja52 img {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+}
+.caja53 {
+    position:absolute ;
+    top: 1945px;
+    left: 20px;
+    
+
+}
+.caja53 img {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+
+}
+.caja54 {
+    
+    position: absolute;
+    top: 1945px;
+    left: 320px;
+
+}
+.caja54 img {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+
+}
+
+.contenedorimg {
+    
+    height: 700px;
+    margin-bottom: 30px;
+    
+}
+.caja55 {
+    position:absolute ;
+    
+    top: 2095px;
+    left: 320px;
+
+}
+.caja55 img {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+
+}
+
+.caja56 {
+    
+    position:absolute ;
+    top: 2095px;
+    left: 20px;
+
+}
+.caja56 img {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+
+}
+
+.conocimiento {
+    height: 900px;
+}
+
+.contenedortrabajo {
+    height: 100px;
+    width: 1000px;
+    left: 300px;
+    position: absolute;
+    
+}
+.contenedorcontacto {
+    position: absolute;
+    
+}
+.caja1 p {
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+.caja1 h1 {
+    margin-right: 50px;
+}
+
+
+.caja2  p {
+    margin-left: 30px;
+}
+.caja3 p {
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+.caja3 h1 {
+    margin-right: 120px;
+}
+.caja4 p {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.tituloM p:hover {
+    background-color:whitesmoke;
+    color: tomato;
+}
+.tituloM p {
+    text-align: center;
+    
+}
+.tituloM  hr {
+    width: 299px;
+}
+.yafte {
+    text-align: center;
+}
+.foto {
+    position: absolute;
+    right: 720px;
+    top: 1px;
+    
+}
+.foto img {
+    width: 150px;
+    border-radius: 100px;
+}
+
+
+.foto1 {
+    position: absolute;
+    right: 790px;
+    top: 475px;
+
+}
+.foto1 img {
+    width: 50px;
+}
+.foto1 img:hover {
+    transform: scale(1.1);
+}
+.foto2 {
+    position: absolute;
+    right: 730px;
+    top: 480px;
+
+}
+.foto2 img {
+    width: 70px;
+}
+.foto2 img:hover {
+    transform: scale(1.1);
+}
+
+.foto3 {
+    position: absolute;
+    right: 650px;
+    top: 480px;
+}
+.foto3 img {
+    width: 70px;
+}
+.foto3 img:hover {
+    transform: scale(1.1);
+}
+.foto4 {
+    position: absolute;
+    left: 680px;
+    top: 350px;
+   
+}
+.foto4 img {
+    width: 70px;
+    border-radius: 50px;
+}
+
+.hr {
+    width: 980px;
+    
+    margin-left: 200px;
+}
+ul {
+    
+    padding: 1px;
+    text-align: center;
+}
+li {
+    list-style: none;
+    
+    margin: 20px;
+   }
+   a {
+    color: white;
+    text-decoration:none;
+
+   }
+   li:hover {
+       background: turquoise;
+    
+    /*
+Codigo del chat bot
+*/  
+   }
+
+   .chatbot {
+    background-color: gray;
+    width: 60px;
+    height: 70px;
+    border-radius: 100px;
+    padding: 30px;
+    position: fixed;
+    bottom: 30px;
+    left: 670px;
+    
+    
+    
+}
+.chatbot:hover {
+    transform: scale(1.1);
+}
+
+.cuadrochatbot {
+    width: 300px;
+    height: 400px;
+    background-color:cyan;
+    display: none;
+    
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
+.encabezado {
+    width: 100%;
+    height: 30px;
+    background-color: cyan;
+    text-align: center;
+    position: static;
+
+}
+.botoncerrar {
+    width: 30px;
+    position: fixed;
+    top: 110px;
+    margin-left: 260px;
+}
+.btnEnviar {
+    width: 30px;
+    position: fixed;
+    top: 475px;
+    margin-left: 260px;
+
+}
+.btnEnviar:hover {
+    transform: scale(1.2);
+}
+.botoncerrar:hover {
+
+    transform: scale(1.2);
+}
+.escriturachat {
+    position: fixed;
+    top: 520px;
+    margin-left: 30px;
+    
+}
+.contenedorchat {
+    background-color: gray;
+    width: 250px;
+    height: 325px;
+    position: fixed;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.mensajes {
+    width: 220px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+/*
+Codigo de la pagina peliculas 
+*/
+
+.contenedorTabla {
+   
+margin-top: 150px;
+margin-left: 100px;
+    
+}
+
+.encabezadoPeliculas {
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+    width: 900px;
+    height: 500px;
+    background-color: blueviolet;
+    float: right;
+    margin-right: 138px;
+    
+}
+
+.botonAgregar {
+    width: 60px;
+    top: 80px;
+    right:5px;
+}
+.botonAgregar:hover {
+    transform: scale(1.2);
+}
+.botonSoltar {
+    width: 60px;
+    position: absolute;
+    top: 80px;
+    left: 5px;
+}
+.botonSoltar:hover {
+    transform: scale(1.2);
+}
+.contenedorImagen h4 {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 3px;
+    
+    height: 10px;
+}
+.contenedorImagen  {
+    position: absolute;
+    top: 240px;
+     left: 5px;   
+}
+.tabla tr:hover {
+    background-color: darkblue;
+    transform: scale(1.1);
+}
+.contenedorImagen img {
+    width: 250px;
+    height: 200px;
+}
+
+
+
+ 
+
+
+   
+
+   
+
+   
+
+
+
+
